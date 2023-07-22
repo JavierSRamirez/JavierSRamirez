@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Javier Ramirez 🤓</h1>
-<h3 align="justify">I am a last semester student in the Data Systematization Technology career at the Francisco Jose de Caldas District University 💻, I love learning about programming and technology.<br>
+<h3 align="justify">I am a last semester student in the Data Systematization Technology career at the Francisco Jose de Caldas District University 💻, I love learning about programming and technology.<br><br>
 In everything I do, I work to leave a positive mark, constantly studying all the changes that take place in the areas that I focus on.🎯</h3>
 
 - 📫 How to reach me **javsanrm@gmail.com**
